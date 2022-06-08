@@ -6,4 +6,6 @@ This is a text file
 This is a text file 
 
 This is an edit to the file
- 
+
+
+This is an edit on local
